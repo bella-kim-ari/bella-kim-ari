@@ -1,10 +1,9 @@
 ## Hi there 👋
-
 ## 📌 About Me
-데이터를 통해 문제를 정의하고, 인사이트를 도출하는 과정에 깊은 관심을 가지고 있습니다.  
-단순한 데이터 처리 수준을 넘어, 비즈니스 맥락을 이해하고 의사결정을 지원하는 Data Analyst로 성장하는 것이 목표입니다.  
+I am deeply interested in data-driven problem solving and extracting meaningful insights from data.  
+My goal is to grow into a Data Analyst who not only analyzes data, but also understands business context and supports data-informed decision-making.
 
-현재 Python 기반 데이터 분석 역량을 체계적으로 학습하며, 머신러닝 모델링과 데이터 해석 능력을 함께 강화하고 있습니다.
+Currently, I am strengthening my analytical skills with a focus on Python-based data analysis and machine learning.
 
 ---
 
@@ -18,7 +17,7 @@
 ### Database
 - SQL
 
-### Collaboration
+### Collaboration & Version Control
 - Git
 - GitHub
 
@@ -28,13 +27,12 @@
 
 | Project | Description | Link |
 |---------|------------|------|
-| Mission 12 | 머신러닝 기반 자전거 수요 예측 프로젝트 (Feature Engineering, Ridge Regression, RMSLE 최적화) | - |
+| Mission 12 | Bike demand prediction using Machine Learning (Feature Engineering, Ridge Regression, RMSLE optimization) | - |
 
 ---
 
 ## 📫 Contact
-- Email: 
-   
+- Email: your_email@example.com
 
 
 <!--
